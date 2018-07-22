@@ -1,0 +1,1 @@
+C:\Budmin\C#\First CSharp Project\First CSharp Project\bin\Debug\First CSharp Project.exe.config
